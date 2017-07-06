@@ -7,5 +7,15 @@ Personal Useful resource list
 
 ### Database
 
-Laravel designdatabase
+Laravel database design: 
+
+-    MySQL WorkBench
+
+-    laravelsd.com
+
+-    phpmyadmin designer
+
+
+
+
 
